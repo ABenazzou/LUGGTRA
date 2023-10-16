@@ -7,27 +7,27 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:101138933097:android:f521a36aaf461655bb49f8",
+        "mobilesdk_app_id": "deleted for privacy",
         "android_client_info": {
           "package_name": "com.example.luggttra"
         }
       },
       "oauth_client": [
         {
-          "client_id": "101138933097-ba2nbth5fc1hmvtg1so1dinb0vaokml8.apps.googleusercontent.com",
+          "client_id": "deleted for privacy",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDy6PLXx-6DkakZTNY3w0LbBouMvXWVchY"
+          "current_key": "deleted for privacy"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "101138933097-ba2nbth5fc1hmvtg1so1dinb0vaokml8.apps.googleusercontent.com",
+              "client_id": "Deleted for privacy",
               "client_type": 3
             }
           ]
